@@ -155,8 +155,11 @@ No known bugs at this time.
 
 ## Authors
 Abdi Berhe - [Github](https://github.com/abdi8-GitHub) / [Twitter](https://twitter.com/AbdiBerhe)
+
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
-Daniel Tsega - [Github](https://github.com/DannySanchez6658) / [Twitter](https://twitter.com/DanielTsega)  
+
+Daniel Tsega - [Github](https://github.com/DannySanchez6658) / [Twitter](https://twitter.com/DanielTsega)
+  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
